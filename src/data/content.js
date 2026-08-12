@@ -180,7 +180,7 @@ export const translations = {
       title: "Differentiators & Engagement",
       subtitle: "A structured, senior-led approach designed to protect counterparties.",
       processBadge: "STRUCTURED PROCESS",
-      processTitle: "Transaction Phasing (4 Steps)",
+      processTitle: "Transaction Phasing",
       processSubtitle: "From initial confidential dialogue to controlled execution, every mandate follows clear review gateways.",
       phases: [
         { title: "Review & Substance", desc: "Initial assessment of substance, authority, execution capability and commercial rationale." },
@@ -448,7 +448,7 @@ export const translations = {
       title: "Alleinstellungsmerkmale & Vorgehen",
       subtitle: "Ein klar strukturierter, senior-geführter Prozess schützt Ihre Interessen.",
       processBadge: "STRUKTURIERTER PROZESS",
-      processTitle: "Transaktionsverlauf in 4 Phasen",
+      processTitle: "Transaktionsverlauf",
       processSubtitle: "Vom ersten vertraulichen Austausch bis zur kontrollierten Ausführung verläuft jedes Mandat nach klaren Prüfstufen.",
       phases: [
         { title: "Prüfung & Substanz", desc: "Erstbewertung von Substanz, Autorität, Ausführungschancen und kommerzieller Rationale." },
@@ -666,7 +666,7 @@ export const translations = {
       title: "Wyróżniki i Podejście",
       subtitle: "Strukturyzowany proces prowadzony przez Zarząd.",
       processBadge: "STRUKTURYZOWANY PROCES",
-      processTitle: "Przebieg Transakcji w 4 Etapach",
+      processTitle: "Przebieg Transakcji",
       processSubtitle: "Od wstępnej poufnej rozmowy po kontrolowaną realizację.",
       phases: [
         { title: "Ocena i Substancja", desc: "Wstępna ocena substancji gospodarczej, wykonalności i celów komercyjnych." },
