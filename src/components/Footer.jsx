@@ -85,7 +85,7 @@ export default function Footer({ t, onOpenDisclaimer, onOpenContact }) {
         {/* Bottom Copyright Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px]">
           <div>
-            © 2026 Torryn Capital & Holding Poland Sp. z o.o. {t.footer.rights}
+            © 2026 {t.footer.rights}
           </div>
 
           <div className="flex items-center gap-6">
